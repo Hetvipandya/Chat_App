@@ -1,0 +1,70 @@
+.img{
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.login_form{
+    margin-top: 20px;
+}
+
+.title{
+    margin-left: 50px;
+}
+
+.email{
+    margin-top: 10px;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.login_form button {
+    margin-left: 70px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #075e54;
+    border-width: 0;
+    color: #fff;
+    padding: 5px;
+}
+
+.part{
+    margin-left: 78px;
+    margin-top: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.join_room{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.join_room input {
+    margin: 10;
+    height: 50px;
+    width: 25%;
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: rgb(4, 170, 170);
+    font-size: 15px;
+    padding-inline: 10px;
+    margin-right: 20px;
+}
+
+.join_room button {
+    width: 10%;
+    height: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    font-size: 18px;
+    background-color: #075e54;
+    border-width: 0;
+    color: #fff;
+    margin: 10px,
+}
